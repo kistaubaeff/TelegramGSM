@@ -6,7 +6,7 @@
 #include <TinyGsmClient.h>
 #include <ArduinoHttpClient.h>
 #include <Arduino.h>
-// sending you an SOS of love ... 
+// sending you an SOS of love ...
 //DEFINE HERE YOUR CHAT_ID AND BOT TOKEN IF IT IS NOT DEFINED IN SKETCH
 #ifndef CHAT_ID
 #define CHAT_ID ""
