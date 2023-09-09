@@ -4,7 +4,7 @@
 #include <TelegramGSM.h>
 #include <SoftwareSerial.h>
 SoftwareSerial Serial1(2, 3);
-const char* BOT_TOKEN = "";
+const char* BOT_TOKEN = "YOUR_BOT_TOKEN";
 TinyGsm modem(Serial1);
 TinyGsmClientSecure client(modem);
 HttpClient http(client, "api.telegram.org", 443);
