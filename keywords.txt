@@ -1,0 +1,3 @@
+TelegramGSM	KEYWORD1
+getUpdates	KEYWORD2
+sendTelegramMessage	KEYWORD2
